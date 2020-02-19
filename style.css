@@ -1,0 +1,14 @@
+html, body{
+    margin: 0;
+}
+#center_box{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    height: 10vh; 
+    margin: 40%;
+}
+#content{
+    align-content: center;
+    align-items: center;
+}
